@@ -1,0 +1,16 @@
+	p { color: red; }
+
+	#abc{
+		color : yellow;
+	}
+	.jyp{
+		color : green;
+	}
+	s {
+		background-color: red; 
+		font-size : 200%;
+	}
+	div #ccc { columns: red }
+	* {
+	font-family: 'Noto Sans KR', sans-serif;
+}
